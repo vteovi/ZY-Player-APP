@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zyplayer.app.simpleDemo-mergeReleaseResources-13:/values-v32/values-v32.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\VTE\\.gradle\\caches\\8.11.1\\transforms\\a6972fc0058df670d8dcdf6d09f89e4a\\transformed\\jetified-lib.5plus.base-release\\res\\values-v32\\values-v32.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "469"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/mipmap-xxxhdpi_icon.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/drawable_splash.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/drawable/splash.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/mipmap-hdpi_icon.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/drawable_push.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/drawable/push.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/drawable_icon.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/drawable/icon.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/mipmap-mdpi_icon.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/mipmap-xhdpi_icon.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.zyplayer.app.simpleDemo-release-15:/mipmap-xxhdpi_icon.png.flat",
+        "source": "com.zyplayer.app.simpleDemo-main-16:/mipmap-xxhdpi/icon.png"
+    }
+]
